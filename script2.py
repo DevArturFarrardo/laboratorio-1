@@ -1,1 +1,0 @@
-print("Essa é a alteração da Mary")
